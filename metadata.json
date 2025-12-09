@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Attron SalesLog",
+  "description": "Field sales tracking application for Attron Automotive logging customer visits, check-ins, and meeting minutes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
